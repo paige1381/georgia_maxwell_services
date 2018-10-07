@@ -1,0 +1,8 @@
+{
+  "name": "georgia_maxwell_services",
+  "version": "1.0.0",
+  "main": "server.js",
+  "repository": "https://github.com/paige1381/georgia_maxwell_services.git",
+  "author": "<paige1381@gmail.com>",
+  "license": "MIT"
+}
