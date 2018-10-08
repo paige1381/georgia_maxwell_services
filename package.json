@@ -17,6 +17,6 @@
     "nodemon": "^1.18.4"
   },
   "scripts": {
-    "start": "node --exec babel-node --presets env server.js"
+    "start": "npm start --exec babel-node --presets env server.js"
   }
 }
