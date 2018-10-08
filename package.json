@@ -17,6 +17,6 @@
     "nodemon": "^1.18.4"
   },
   "scripts": {
-    "start:server": "nodemon server.js --exec babel-node --presets es2015,stage-0"
+    "start": "node server.js --exec babel-node --presets es2015,stage-0"
   }
 }
